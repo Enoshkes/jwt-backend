@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "irCl62sgOfGpdjKOY1rH3T8zmHOo8PFbyz0I/DBKjog=",
+  "Source": "jwt-rest",
+  "BasePath": "_content/jwt-rest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
